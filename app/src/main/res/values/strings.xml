@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EMZ会议室系统</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">总览</string>
+    <string name="title_notifications">关于</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home</string>
+    <string name="hello_about_fragment">About</string>
+    <string name="hello_status_fragment">status</string>
+</resources>
